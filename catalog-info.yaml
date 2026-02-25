@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pentest-repo
+  description: "\"><img src=1 onerror=alert('xss')>"
+  # Example for optional annotations
+  annotations:
+    github.com/project-slug: backstage/backstage
+    backstage.io/techdocs-ref: "\"><a href=”” onclick=”alert(‘XSS’)”>Click Me</a>"
+spec:
+  type: website
+  owner: john@example.com
+  lifecycle: experimental
