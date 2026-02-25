@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: pentest-repo
+  name: pentest-repo2
   description: "\"><img src=1 onerror=alert('xss')>"
   # Example for optional annotations
   annotations:
