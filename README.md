@@ -1,3 +1,3 @@
 This is a read me file.
 
-"</div><img src=1 onerror=alert(41)><div>
+"</div>"</divdiv><img src=1 onerror=alert(41)><div>
